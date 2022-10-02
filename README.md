@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm izzah</h1>
 <h3 align="center">A passionate data science enthusiast & learner</h3>
 
-- 🌱 I’m currently learning data science through data science bootcamp batch 11 A **from dibimbing.id**
+I’m currently learning data science through data science bootcamp batch 15. **from dibimbing.id**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izzahlux&label=Profile%20views&color=0e75b6&style=flat" alt="izzahlux" /> </p>
