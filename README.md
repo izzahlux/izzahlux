@@ -4,8 +4,7 @@
 <h1 align="center">Hi 👋, I'm izzah</h1>
 <h3 align="center">A passionate data science enthusiast & learner</h3>
 
-I’m currently learning data science through data science bootcamp batch 15. **from dibimbing.id**
-
+I believe if we want to optimize our potential, then we must be able to know ourselves well. It's the same with the industrial and business world, if we want to going advance on it, we must be able to get to know all the systems and process that are already running, one of which is through data.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izzahlux&label=Profile%20views&color=0e75b6&style=flat" alt="izzahlux" /> </p>
 <h3 align="left">Connect with me:</h3>
