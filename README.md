@@ -12,3 +12,22 @@
 
 ## Skill set:
 
+<p align="left">
+<img src="https://raw.githubusercontent.com/izzahlux/izzahlux/refs/heads/main/Logo%20Icon/icons8-excel.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/izzahlux/izzahlux/refs/heads/main/Logo%20Icon/icons8-google-sheets.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/izzahlux/izzahlux/refs/heads/main/Logo%20Icon/icons8-python.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/izzahlux/izzahlux/refs/heads/main/Logo%20Icon/icons8-mysql-logo.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/izzahlux/izzahlux/refs/heads/main/Logo%20Icon/icons8-visual-studio-code-2019.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/izzahlux/izzahlux/refs/heads/main/Logo%20Icon/icons8-google-data-studio.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/izzahlux/izzahlux/refs/heads/main/Logo%20Icon/icons8-power-bi.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/izzahlux/izzahlux/refs/heads/main/Logo%20Icon/icons8-tableau-software.svg" height="auto" width="40">
+
+</p>
+
